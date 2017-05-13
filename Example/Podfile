@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Tiger_Example' do
+  pod 'Tiger', :path => '../'
+
+  target 'Tiger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

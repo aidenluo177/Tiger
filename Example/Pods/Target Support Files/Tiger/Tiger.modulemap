@@ -1,0 +1,6 @@
+framework module Tiger {
+  umbrella header "Tiger-umbrella.h"
+
+  export *
+  module * { export * }
+}

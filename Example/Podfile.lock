@@ -1,0 +1,16 @@
+PODS:
+  - Tiger (0.1.0)
+
+DEPENDENCIES:
+  - Tiger (from `../`)
+
+EXTERNAL SOURCES:
+  Tiger:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Tiger: 3564373c8e42febcee9a45e7f5e010c41b842836
+
+PODFILE CHECKSUM: c2ce5dc42ca059ec06577e820a37443fe052793d
+
+COCOAPODS: 1.2.1

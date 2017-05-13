@@ -1,0 +1,22 @@
+{
+  "name": "Tiger",
+  "version": "0.1.0",
+  "summary": "A short description of Tiger.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aidenluo177@gmail.com/Tiger",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aidenluo177@gmail.com": "aidenluo.me@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/aidenluo177@gmail.com/Tiger.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Tiger/Classes/**/*"
+}
